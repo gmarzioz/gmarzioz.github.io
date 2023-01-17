@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nome": "uno", "descrizione": "duno" }, "geometry": { "type": "Point", "coordinates": [ 9.118893129770964, 45.221946564885499 ] } },
+{ "type": "Feature", "properties": { "nome": "due", "descrizione": "ddue" }, "geometry": { "type": "Point", "coordinates": [ 9.19026717557249, 45.195038167938932 ] } },
+{ "type": "Feature", "properties": { "nome": "tre", "descrizione": "ttre" }, "geometry": { "type": "Point", "coordinates": [ 9.137022900763331, 45.168320610687026 ] } }
+]
+}
